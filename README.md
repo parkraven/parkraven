@@ -33,13 +33,13 @@
 
 ## 🧑‍💻 About Me 🧑‍💻
 
-### 👀 Interested in CS and Programming
+### 👀 Interested in CS & Programming
 
 ### 🌱 Learning Java & Web Programming
 
 ### 😂 It's not a bug, it's a feature.
 
-### 📬 Contact Me:
+### 📬 Contact:
 <a href="mailto:parktrue999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </a>
