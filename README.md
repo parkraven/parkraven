@@ -4,7 +4,6 @@
 [![Tistory Badge](https://img.shields.io/badge/Tistory-ff6a00?style=flat&logo=Tistory&logoColor=white)](https://zerodark30.tistory.com/)
 
 ## 🛠 Skills
-
 ![Java](https://img.shields.io/badge/Java-CC0000?style=flat&logo=OpenJDK&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white)
